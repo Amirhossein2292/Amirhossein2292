@@ -21,7 +21,6 @@
 
 ### I am Amirhossein Salehi
 - A Full-Stack Developer & Open Source enthusiast.
-- An electrical enginnering 
 - Currently working on some of my cool side projects based on Web Development and Blockchain.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
