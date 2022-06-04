@@ -22,6 +22,6 @@
 - ⚡ I have a blog at https://piraces.dev where I try to post as frequently as I can (crossposting to [dev.to](https://dev.to/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
 ## Some of my Github Stats
-![Piraces github stats](https://github-readme-stats.vercel.app/api?username=Amirhossein2292_icons=true)
+![Piraces github stats](https://github-readme-stats.vercel.app/api?username=Amirhossein2292)
 
 ⭐️ From [Amirhossein](https://github.com/Amirhossein2292)
